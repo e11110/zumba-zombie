@@ -1,4 +1,4 @@
-# PostureGuard 🧘‍♀️
+# Zumba Zombie 🧘‍♀️
 
 A React Native/Expo social media health app that monitors your posture and encourages movement every 15 minutes to prevent sedentary behavior and promote better health habits.
 
